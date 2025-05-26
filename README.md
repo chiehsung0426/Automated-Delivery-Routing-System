@@ -24,6 +24,7 @@ It integrates components such as:
 ## 🧪 How to Run Tests
 
 The project includes:
+
 ✅ Unit tests  
 ✅ Integration tests
 
